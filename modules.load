@@ -1,0 +1,6 @@
+efivarfs.ko
+lcd.ko
+rdbg.ko
+mpq-adapter.ko
+mpq-dmx-hw-plugin.ko
+br_netfilter.ko
